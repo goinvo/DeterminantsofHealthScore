@@ -12,15 +12,19 @@ OBJECTIVES
 a.	Identify an accurate, v01 minimum list of determinants
 b.	Identify the relationships/correlation between the determinants
 c.	Weight of each determinants impact to health outcome (overall 1 - N weighting)
+
 2.	Explore the mapping of existing data models/elements to the DOH
 a.	Outline the minimum determinants SHR data elements
+
 3.	Generate a composite score for the DOH using real data
 a.	Define the DOH and their criteria for data inclusion
 b.	Identify sources of DOH data
+
 4.	Use the DOH to inform existing services
 a.	Evolve representation of social impact data in Synthea
 b.	Pilot use for individual health decision making
 c.	Pilot use for public health decision making
+
 RESEARCH
 -	Scoring methodology
 -	The Development and Application of a Composite Score for Social Determinants of Health
