@@ -14,7 +14,7 @@ OBJECTIVES
 3. Weight of each determinants impact to health outcome (overall 1 - N weighting)
 
 # Explore the mapping of existing data models/elements to the DOH
-1 Outline the minimum determinants SHR data elements
+1. Outline the minimum determinants SHR data elements
 
 # Generate a composite score for the DOH using real data
 1. Define the DOH and their criteria for data inclusion
