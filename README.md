@@ -1,4 +1,4 @@
-# DeterminantsofHealthScore
+# Determinants of Health Score
 
 Design a data-driven summary of the determinants of health (DOH) to aid health decision making at the individual, and population level.
 
@@ -8,19 +8,19 @@ View appendix A for possible stages of design.
 View appendix B for healthscore considerations.
 
 OBJECTIVES
-# Establish an accurate, high fidelity, evidence-based list of determinants in 2019
+### Establish an accurate, high fidelity, evidence-based list of determinants in 2019
 1. Identify an accurate, v01 minimum list of determinants
 2. Identify the relationships/correlation between the determinants
 3. Weight of each determinants impact to health outcome (overall 1 - N weighting)
 
-# Explore the mapping of existing data models/elements to the DOH
+### Explore the mapping of existing data models/elements to the DOH
 1. Outline the minimum determinants SHR data elements
 
-# Generate a composite score for the DOH using real data
+### Generate a composite score for the DOH using real data
 1. Define the DOH and their criteria for data inclusion
 2. Identify sources of DOH data
 
-# Use the DOH to inform existing services
+### Use the DOH to inform existing services
 1. Evolve representation of social impact data in Synthea
 2. Pilot use for individual health decision making
 3. Pilot use for public health decision making
